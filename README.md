@@ -1,4 +1,4 @@
-# Time-Series-temperature-forecasting
+# Time Series Temperature Forecasting
 This is an MLP (Multilayer Perceptron) model designed to predict next day's temperature.
 
 ## Architecture: 
