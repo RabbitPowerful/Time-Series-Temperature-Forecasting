@@ -26,10 +26,10 @@ This is an MLP model designed to predict next day's temperature.
 * year_index
 
 ## y parameter:
-*Temperature
+* Temperature
 
 ## Optimization Techniques used:
-- Dropout (p=0.3)
-- Weight decay= 1e-4
-- Batch Size = 128
+* Dropout (p=0.3)
+* Weight decay= 1e-4
+* Batch Size = 128
 
