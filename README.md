@@ -1,5 +1,5 @@
 # Time-Series-temperature-forecasting
-This is an MLP model designed to predict next day's temperature.
+This is an MLP (Multilayer Perceptron) model designed to predict next day's temperature.
 
 ## Architecture: 
 ``` 17 → 32 → 16 → 1```
@@ -18,10 +18,10 @@ This is an MLP model designed to predict next day's temperature.
 * dow_cos
 * doy_sin
 * doy_cos
-* lag_1day,
+* lag_1day
 * lag_2day
 * lag_3day
-* lag_7day-
+* lag_7day
 * season
 * year_index
 
