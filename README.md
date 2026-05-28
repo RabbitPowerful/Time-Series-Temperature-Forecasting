@@ -33,3 +33,4 @@ This is a simple MLP (Multilayer Perceptron) model designed to predict next day'
 * Weight decay= 1e-4
 * Batch Size = 128
 
+![Error distribution for every day in the test set](Images/Result_distribution.png)
