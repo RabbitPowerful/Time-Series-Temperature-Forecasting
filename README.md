@@ -33,4 +33,12 @@ This is a simple MLP (Multilayer Perceptron) model designed to predict next day'
 * Weight decay= 1e-4
 * Batch Size = 128
 
+## Resulting temperature forecast for 2023-08-20:
+![Resulting temperature forecast for 2023-08-20](Images/Temp_Forecast_2023-08-20.png)
+
+## Resulting temperature forecast for 2023-02-05:
+![Resulting temperature forecast for 2023-02-05](Images/Temp_Forecast_2023-02-05.png)
+
+## Error distribution for every day in the test set:
 ![Error distribution for every day in the test set](Images/Result_distribution.png)
+
